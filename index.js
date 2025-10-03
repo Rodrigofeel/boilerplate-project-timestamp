@@ -1,5 +1,5 @@
 // index.js
-// where your node app starts
+// onde seu node app começa
 
 // init project
 var express = require('express');
